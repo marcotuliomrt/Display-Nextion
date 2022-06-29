@@ -13,7 +13,7 @@ Todos os displays nextion fazem uso de comunicação serial, ou seja possuem ape
 * [Nextion Editor](https://nextion.tech/nextion-editor/) (foi utilizada a versão 1.63.3)
 
 ### Básico do Nextion Editor
-![image](https://user-images.githubusercontent.com/56456537/175836837-fa0c98e5-75f4-4f96-8b7e-79e4b5037af9.png)
+![image](https://user-images.githubusercontent.com/56456537/176512581-8257a5d4-7f2d-485b-887f-9162053e593f.png)
 <p />
 
 #### Vermelho: Elementos padrão disponíveis para colocar no display. Ex: caixa de texto, botões, barra de progresso, check box, ...
