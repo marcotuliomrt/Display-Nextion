@@ -1,7 +1,7 @@
 ### Sobre o Display
 Os displays Nextion prossuem o próprio microcontrolador ARM integrado, por isso são uma solução de "alto nível", no sentido de que já apresentam inúmeras funcionalidades integradas e o próprio software para que estas possam ser programadas.
 <p />
-Todos os elementos, cores e ações que o display mostra e executa são programadas no software Nextion Editor e carregado no dislpay através de um cartão micro SD ou um corversor USB-serial. A parte do código que vai no microcontrolador (arduino, STM32, ...) é responsável apenas por enviar e receber algumas informação para o display.
+Todos os elementos, cores e ações que o display mostra e executa são programadas no software Nextion Editor, o qual gera um arquivo que é carregado no dislpay através de um cartão micro SD ou um corversor USB-serial. A parte do código que vai no microcontrolador (arduino, STM32, ...) é responsável apenas por enviar e receber algumas informação para o display.
 <p />
 Todos os displays nextion fazem uso de comunicação serial, ou seja possuem apenas 2 pinos de comunicação, Rx e Tx.
 
